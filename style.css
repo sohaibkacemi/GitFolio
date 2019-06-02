@@ -198,9 +198,15 @@ body {
       }
   }
 
-  @media(max-width:385) {
+  @media(max-width:385px) {
       .box-container .box {
           width: 80%;
+      }
+  }
+
+  @media(orientation:landscape) {
+      .profile {
+          height: 100vh;
       }
   }
 
