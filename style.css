@@ -201,10 +201,11 @@ body {
   @media(max-width:385px) {
       .box-container .box {
           width: 80%;
+          font-size: 1rem;
       }
   }
 
-  @media(orientation:landscape) {
+  @media(orientation: landscape) {
       .profile {
           height: 180vh;
       }
