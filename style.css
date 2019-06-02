@@ -200,7 +200,7 @@ body {
 
   @media(max-width:385px) {
       .box-container .box {
-          width: 80%;
+          width: 90%;
           font-size: 1rem;
           padding: 0.5rem;
       }
