@@ -5,6 +5,7 @@ body {
     flex-direction: row;
     font-family: 'Raleway', sans-serif;
     background: #070707;
+    box-sizing: border-box;
 }
 
 .profile {
